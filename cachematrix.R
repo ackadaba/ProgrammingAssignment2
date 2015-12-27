@@ -4,6 +4,14 @@
 ## Write a short comment describing this function
 makeCacheMatrix <- function(x = matrix()) {
 	s <- NULL
+<<<<<<< f00bb0fd271ae17ccf37942c74e8ee925fe393c6
+=======
+<<<<<<< HEAD
+	input_matrix<-NULL
+	input_matrix<<-x
+=======
+>>>>>>> origin/master
+>>>>>>> Merge remote-tracking branch 'origin/master'
       set <- function(y) {
              x <<- y
              s <<- NULL
